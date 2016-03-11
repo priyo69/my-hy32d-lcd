@@ -1,0 +1,1 @@
+The code in this project has been collected from a number of sources. I am trying to collate working drivers and example applications for the STM32F4 Discovery Evaluation board.
